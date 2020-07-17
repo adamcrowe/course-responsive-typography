@@ -1,5 +1,5 @@
 # course-css-typography
-* Course: [Frontend Masters: Responsive Web Typography v2](https://frontendmasters.com/courses/responsive-typography-v2)
+* Course: [Frontend Masters: Responsive Web Typography v2](https://frontendmasters.com/courses/responsive-typography-v2) by Jason Pamental
 	* [Repository](https://github.com/jpamental/rwt-vf-workshop-full)
 
 ## Performance
